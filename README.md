@@ -233,6 +233,7 @@ This repository is a **practical journey into Object-Oriented Programming with C
 - Junior developers  
 - Portfolio & GitHub showcase
 
+<br>
 
 <p align="center">
   🔗 Explore more on my GitHub profile: 
