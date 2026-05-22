@@ -51,17 +51,28 @@ This project is designed to **build a strong OOP foundation** by applying theory
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Paradigm-OOP-ff6f00?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Encapsulation-1e88e5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Inheritance-43a047?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Polymorphism-e53935?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Abstraction-8e24aa?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Algorithms-00c853?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Memory-Management-d32f2f?style=for-the-badge&logo=cachet&logoColor=white" />
-  <img src="https://img.shields.io/badge/STL-Standard%20Library-2962ff?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Object_Oriented_Programming-32CD32?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+  <img src="https://img.shields.io/badge/Mathematical_Modeling-1E90FF?style=for-the-badge"/>
 
 </p>
+
 
 ---
 
@@ -77,17 +88,28 @@ Each task focuses on essential OOP principles:
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Paradigm-OOP-ff6f00?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Encapsulation-1e88e5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Inheritance-43a047?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Polymorphism-e53935?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Abstraction-8e24aa?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Algorithms-00c853?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Memory-Management-d32f2f?style=for-the-badge&logo=cachet&logoColor=white" />
-  <img src="https://img.shields.io/badge/STL-Standard%20Library-2962ff?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Object_Oriented_Programming-32CD32?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+  <img src="https://img.shields.io/badge/Mathematical_Modeling-1E90FF?style=for-the-badge"/>
 
 </p>
+
 
 ---
 
@@ -101,17 +123,28 @@ Each task focuses on essential OOP principles:
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Paradigm-OOP-ff6f00?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Encapsulation-1e88e5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Inheritance-43a047?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Polymorphism-e53935?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Abstraction-8e24aa?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Algorithms-00c853?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Memory-Management-d32f2f?style=for-the-badge&logo=cachet&logoColor=white" />
-  <img src="https://img.shields.io/badge/STL-Standard%20Library-2962ff?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Object_Oriented_Programming-32CD32?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+  <img src="https://img.shields.io/badge/Mathematical_Modeling-1E90FF?style=for-the-badge"/>
 
 </p>
+
 
 ---
 
@@ -127,15 +160,25 @@ By completing this repository, you will:
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Paradigm-OOP-ff6f00?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Encapsulation-1e88e5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Inheritance-43a047?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Polymorphism-e53935?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Abstraction-8e24aa?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Algorithms-00c853?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Memory-Management-d32f2f?style=for-the-badge&logo=cachet&logoColor=white" />
-  <img src="https://img.shields.io/badge/STL-Standard%20Library-2962ff?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Object_Oriented_Programming-32CD32?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+  <img src="https://img.shields.io/badge/Mathematical_Modeling-1E90FF?style=for-the-badge"/>
 
 </p>
 
@@ -152,15 +195,25 @@ To deepen understanding, key components are implemented **without STL**:
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Paradigm-OOP-ff6f00?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Encapsulation-1e88e5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Inheritance-43a047?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Polymorphism-e53935?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Abstraction-8e24aa?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Algorithms-00c853?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Memory-Management-d32f2f?style=for-the-badge&logo=cachet&logoColor=white" />
-  <img src="https://img.shields.io/badge/STL-Standard%20Library-2962ff?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Object_Oriented_Programming-32CD32?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+  <img src="https://img.shields.io/badge/Mathematical_Modeling-1E90FF?style=for-the-badge"/>
 
 </p>
 
@@ -183,17 +236,28 @@ Custom behavior for operators:
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Paradigm-OOP-ff6f00?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Encapsulation-1e88e5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Inheritance-43a047?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Polymorphism-e53935?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Abstraction-8e24aa?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Algorithms-00c853?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Memory-Management-d32f2f?style=for-the-badge&logo=cachet&logoColor=white" />
-  <img src="https://img.shields.io/badge/STL-Standard%20Library-2962ff?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Object_Oriented_Programming-32CD32?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+  <img src="https://img.shields.io/badge/Mathematical_Modeling-1E90FF?style=for-the-badge"/>
 
 </p>
+
 
 ---
 
@@ -216,18 +280,30 @@ Extended with:
 
 ---
 
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Paradigm-OOP-ff6f00?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Encapsulation-1e88e5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Inheritance-43a047?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Polymorphism-e53935?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Abstraction-8e24aa?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Algorithms-00c853?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Memory-Management-d32f2f?style=for-the-badge&logo=cachet&logoColor=white" />
-  <img src="https://img.shields.io/badge/STL-Standard%20Library-2962ff?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Object_Oriented_Programming-32CD32?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+  <img src="https://img.shields.io/badge/Mathematical_Modeling-1E90FF?style=for-the-badge"/>
 
 </p>
+
 
 ---
 
