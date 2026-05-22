@@ -346,6 +346,9 @@ This repository is a **practical journey into Object-Oriented Programming with C
 
 </p>
 
+
+<br>
+
 <p align="center">
   🔗 Explore more on my GitHub profile: 
   <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
