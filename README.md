@@ -7,6 +7,27 @@
 
 <br>
 
+
+
+<br>
+
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-ff8c00?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Paradigm-OOP-bd5cff?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Encapsulation-ffb300?style=for-the-badge&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Inheritance-7c4dff?style=for-the-badge&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Polymorphism-ff6d00?style=for-the-badge&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Abstraction-a855f7?style=for-the-badge&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Focus-Algorithms-ffc107?style=for-the-badge&logo=leetcode&logoColor=black" />  
+  <img src="https://img.shields.io/badge/Memory-Management-ff7043?style=for-the-badge&logo=cachet&logoColor=white" />  
+  <img src="https://img.shields.io/badge/STL-Standard%20Library-8b5cf6?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+</p>
+
+
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Paradigm-OOP-ff6f00?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
