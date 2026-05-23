@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Object_Oriented_Programming-32CD32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge"/>
 
   <img src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge"/>
