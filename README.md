@@ -61,7 +61,7 @@ This project is designed to **build a strong OOP foundation** by applying theory
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Object_Oriented_Programming-32CD32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge"/>
 
   <img src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge"/>
@@ -98,7 +98,7 @@ Each task focuses on essential OOP principles:
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Object_Oriented_Programming-32CD32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge"/>
 
   <img src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge"/>
@@ -133,7 +133,7 @@ Each task focuses on essential OOP principles:
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Object_Oriented_Programming-32CD32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge"/>
 
   <img src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge"/>
@@ -144,7 +144,6 @@ Each task focuses on essential OOP principles:
   <img src="https://img.shields.io/badge/Mathematical_Modeling-1E90FF?style=for-the-badge"/>
 
 </p>
-
 
 ---
 
@@ -170,7 +169,7 @@ By completing this repository, you will:
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Object_Oriented_Programming-32CD32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge"/>
 
   <img src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge"/>
@@ -205,7 +204,7 @@ To deepen understanding, key components are implemented **without STL**:
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Object_Oriented_Programming-32CD32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge"/>
 
   <img src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge"/>
@@ -246,7 +245,7 @@ Custom behavior for operators:
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Object_Oriented_Programming-32CD32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge"/>
 
   <img src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge"/>
@@ -292,7 +291,7 @@ Extended with:
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Object_Oriented_Programming-32CD32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge"/>
 
   <img src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge"/>
@@ -303,6 +302,7 @@ Extended with:
   <img src="https://img.shields.io/badge/Mathematical_Modeling-1E90FF?style=for-the-badge"/>
 
 </p>
+
 
 
 ---
@@ -334,7 +334,7 @@ This repository is a **practical journey into Object-Oriented Programming with C
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Object_Oriented_Programming-32CD32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge"/>
 
   <img src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge"/>
@@ -345,7 +345,6 @@ This repository is a **practical journey into Object-Oriented Programming with C
   <img src="https://img.shields.io/badge/Mathematical_Modeling-1E90FF?style=for-the-badge"/>
 
 </p>
-
 
 <br>
 
