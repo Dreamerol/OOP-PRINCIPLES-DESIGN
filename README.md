@@ -3,7 +3,7 @@
 
 
 
-![c](https://raw.githubusercontent.com/Dreamerol/Dreamerol/9139838c9b6ac7d3ed4e5eb842a6d14bd33b1dbe/ZZCPP8.JPG)
+![c](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZCPP8.JPG)
 
 <br>
 
