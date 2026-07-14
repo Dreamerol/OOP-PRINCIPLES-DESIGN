@@ -248,9 +248,6 @@ This repository is a **practical journey into Object-Oriented Programming with C
 
 </p>
 
-<br>
-
-
 
 
 
