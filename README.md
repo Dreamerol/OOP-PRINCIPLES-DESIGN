@@ -209,9 +209,7 @@ Extended with:
 ---
 
 
-## 📌 Conclusion
-
-This repository is a **practical journey into Object-Oriented Programming with C++**.
+## 📌 Conclusion -  This repository is a **practical journey into Object-Oriented Programming with C++** .
 
 🎯 Focused on:
 - Clean architecture  
