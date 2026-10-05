@@ -1,17 +1,12 @@
 
 
 
-
-
-
-
-
-
-
-
-
-<h1 align="center">🧩 𝗢𝗢𝗣 – 𝗣𝗥𝗜𝗡𝗖𝗜𝗣𝗟𝗘𝗦, 𝗗𝗘𝗦𝗜𝗚𝗡 & 𝗔𝗣𝗣𝗟𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦</h1>
-
+<h1 align="center">
+  🧩 <a href="https://github.com/Dreamerol/CARDFOLIO"
+     title="Object-Oriented Programming in C++ — CARDFOLIO • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer">
+    <b>𝗢𝗢𝗣 – 𝗣𝗥𝗜𝗡𝗖𝗜𝗣𝗟𝗘𝗦, 𝗗𝗘𝗦𝗜𝗚𝗡 & 𝗔𝗣𝗣𝗟𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦</b>
+  </a>
+</h1>
 
 
 
@@ -19,16 +14,20 @@
 
 
 
+<a href="https://github.com/Dreamerol/AI-STUDIO" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/05b3c3f68652f814f112ef020a4a896b423fec9e/OOP-3.png"
+    alt="Object-Oriented Programming in C++ : Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer • Software Engineer""
+    style="width: 100%; height: auto; display: block;"
+  >
+</a>
 
 
 
-![c](https://raw.githubusercontent.com/Dreamerol/Dreamerol/05b3c3f68652f814f112ef020a4a896b423fec9e/OOP-3.png)
 
 
 
-
-
-
+<br>
 
 <br>
 
